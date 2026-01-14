@@ -1,11 +1,11 @@
-### Hotel Booking Data Analysis (EDA)
-# Project Overview
+# Hotel Booking Data Analysis (EDA)
+### Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on hotel booking data to understand booking patterns, cancellation behaviour, pricing trends, and customer booking channels. The goal is to identify key factors that influence reservation cancellations and provide insights that can support better pricing and revenue management decisions.
 
 The analysis is based on 118,897 cleaned hotel bookings from 2015 to 2017, covering both City Hotels and Resort Hotels.
 
-# Key Insights
+### Key Insights
 
 * 37.13% of reservations are cancelled, indicating a significant revenue impact.
 
@@ -19,7 +19,7 @@ The analysis is based on 118,897 cleaned hotel bookings from 2015 to 2017, cover
 
 * Direct bookings have the lowest cancellation rate.
 
-# Tools & Technologies
+### Tools & Technologies
 
 * Python
 
@@ -33,6 +33,6 @@ The analysis is based on 118,897 cleaned hotel bookings from 2015 to 2017, cover
 
 * Jupyter Notebook
 
-# Outcome
+### Outcome
 
 This project demonstrates how pricing, seasonality, hotel type, and booking channels influence hotel cancellations. The insights can be used to improve pricing strategies, reduce cancellations, and optimise revenue performance.
