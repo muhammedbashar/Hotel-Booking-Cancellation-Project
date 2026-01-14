@@ -3,7 +3,6 @@
 
 This project performs Exploratory Data Analysis (EDA) on hotel booking data to understand booking patterns, cancellation behaviour, pricing trends, and customer booking channels. The goal is to identify key factors that influence reservation cancellations and provide insights that can support better pricing and revenue management decisions.
 
-The analysis is based on 118,897 cleaned hotel bookings from 2015 to 2017, covering both City Hotels and Resort Hotels.
 
 ### Key Insights
 
